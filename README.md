@@ -5,7 +5,7 @@ TodoList-Project/
 ├── index.html
 ├── TodoList.js
 ├── README.md
-└── todo-screenshot.png     ← Image is here
+└── image.png     ← Image is here
 
 
 Features
