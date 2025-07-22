@@ -1,5 +1,12 @@
 # TodoList-Project
 This is a basic To-Do List web app using HTML, CSS, and JavaScript.
+#ScreenShot
+TodoList-Project/
+├── index.html
+├── TodoList.js
+├── README.md
+└── todo-screenshot.png     ← Image is here
+
 
 Features
 Add tasks
