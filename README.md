@@ -5,8 +5,8 @@ TodoList-Project/
 ├── index.html
 ├── TodoList.js
 ├── README.md
-└── image.png     ← Image is here
-
+└── screenshot/
+    └── image.png   
 
 Features
 Add tasks
